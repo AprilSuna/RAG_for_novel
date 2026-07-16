@@ -1,0 +1,16 @@
+# API Key 本地缓存（含敏感信息，禁止提交）
+api_keys.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# 数据索引缓存
+data/vector_index.json
+
+# 系统
+.DS_Store
